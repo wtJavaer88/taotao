@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="itcast-usermanage"
+  id="myeclipse.1467254422624"
+  context-root="/itcast-usermanage"
+  j2ee-spec="1.7"
+  archive="itcast-usermanage.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
